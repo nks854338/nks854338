@@ -10,7 +10,6 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
    <a href="https://www.linkedin.com" target="_blank">
         <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="LinkedIn" height="40" style="margin-right: 20px;">
     </a>
-   <span width="30"></span>
     <a href="https://www.behance.net" target="_blank">
         <img src="https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a" alt="Behance" height="30">
     </a>
