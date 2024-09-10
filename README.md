@@ -45,7 +45,7 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 
 ## 📫 How to reach me:
 <p align="left">
-    <img src="https://github.com/user-attachments/assets/email-icon.png" alt="Email Icon" width="30" height="30" style="margin-right: 10px;">
+    <img src="https:\\github.com\user-attachments\assets\email-icon.png" alt="Email Icon" width="30" height="30" style="margin-right: 10px;">
     <span>Email: <a href="mailto:nks854338@gmail.com">nks854338@gmail.com</a></span>
 </p>
 <p align="left">
