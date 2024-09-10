@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/bea498da-58bb-404e-82d5-4decb3c5f89f" alt="Main Image" width="100%">
 <h1 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="35" />, I'm Nandani</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
