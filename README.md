@@ -10,16 +10,16 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 
 <p align="left">
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="30">
+    <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="LinkedIn" height="30">
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30">
+    <img src="https://github.com/user-attachments/assets/6f79efdd-a7e9-4953-ace3-4c9f3e3d3660" alt="GitHub" height="30">
   </a>
   <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30">
+    <img src="https://github.com/user-attachments/assets/85ef7ce1-ae22-417b-b208-30cb80e18fff" alt="Twitter" height="30">
   </a>
   <a href="https://www.behance.net" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-0057FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="30">
+    <img src="https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a" alt="Behance" height="30">
   </a>
 </p>
 
