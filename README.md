@@ -2,10 +2,17 @@
 
 Aspiring Full-Stack Developer with a passion for creating efficient, scalable, and user-friendly applications. Skilled in web technologies like React.js, Node.js, and MongoDB, with a solid foundation in Computer Science and software development practices. I'm always eager to learn and grow, currently exploring exciting new projects in web development and geospatial technologies.
 
-## 🌱 I’m currently learning:
-- Advanced Express, and MongoDB
-- 📫 How to reach me Click
-- 
+-🌱 I’m currently learning: Advanced Express, and MongoDB
+- 📫 How to reach me: Email
+
+## Connect with me:
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b9d9f972-0f07-45cf-ab16-ec1bfc7d2e19" alt="Linkdin" width="100" height="100">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://github.com/user-attachments/assets/f491ab30-b108-4ef7-8ee0-8e0417557a2a" alt="Behance" width="100" height="100">
+    </a>
+    
 ---
 ## 🛠 Languages:
 <div style="display: flex; justify-content: space-between; gap: 10px;">
