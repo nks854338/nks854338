@@ -8,10 +8,13 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 ## Connect with me:
 <div style="display: flex; justify-content: space-between;">
    <a href="https://www.linkedin.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" style="margin:50px;" alt="LinkedIn" height="40" style="margin-right: 20px;">
+        <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="LinkedIn" height="40">
     </a>
    <a href="https://www.linkedin.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6f79efdd-a7e9-4953-ace3-4c9f3e3d3660" alt="LinkedIn" height="40" style="margin-right: 20px;">
+        <img src="https://github.com/user-attachments/assets/6f79efdd-a7e9-4953-ace3-4c9f3e3d3660" alt="LinkedIn" height="40">
+    </a>
+   <a href="https://www.linkedin.com" target="_blank">
+        <img src="https://github.com/user-attachments/assets/85ef7ce1-ae22-417b-b208-30cb80e18fff" alt="Upskill mafia" height="40">
     </a>
     <a href="https://www.behance.net" target="_blank">
         <img src="https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a" alt="Behance" height="30">
