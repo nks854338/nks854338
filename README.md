@@ -16,86 +16,9 @@
 <a href="https://discord.gg/https://discord.com/channels/nandani854338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/nandani854338" height="30" width="40" /></a>
 </p>
 
-## 🛠 Languages:
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://github.com/user-attachments/assets/9a3160ce-ec56-43fd-9b66-0357f500d49a" alt="HTML" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2f5f64d9-fbfd-4d88-9217-eb6f522187b9" alt="CSS" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4ef61b34-e420-48ff-9d24-63f7bc9f6de1" alt="JavaScript" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://github.com/user-attachments/assets/42297ea2-ff42-40b8-a2f3-10bb6cdfbffb" alt="PHP" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://www.mysql.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2423df89-5b98-44f6-8128-50003f342041" alt="SQL" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2e98a6a8-06f7-48b9-af4c-274416717e4b" alt="C" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2e98a6a8-06f7-48b9-af4c-274416717e4b" alt="C++" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2c969332-0265-4075-954b-9ce074fc5f9e" alt="C#" width="100" height="100" style="border-radius: 50%;">
-    </a>
-</div>
 
-## 🛠 Frameworks:
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <a href="https://reactjs.org" target="_blank">
-        <img src="https://github.com/user-attachments/assets/c9a99fb5-fd86-4dfb-af62-f176758c5d14" alt="React" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://redux.js.org" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6aea1c5c-d92a-4992-9bec-fb26c529f644" alt="Redux" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://github.com/user-attachments/assets/825d3c2b-0578-4310-88dc-d5e8a07b7214" alt="Node.js" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://expressjs.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/babd6af2-4322-49a1-9bd8-48084fae2771" alt="Express" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://tailwindcss.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/ce992630-ed41-4c56-a445-3bd1b2a8eea5" alt="Tailwind" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/db99c0be-bf82-4f62-ae17-a99bd90ed604" alt="Bootstrap" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2e98a6a8-06f7-48b9-af4c-274416717e4b" alt="C++" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2c969332-0265-4075-954b-9ce074fc5f9e" alt="C#" width="100" height="100" style="border-radius: 50%;">
-    </a>
-</div>
-
-## 🛠 Tools:
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/77e125c5-2629-4f61-ba8a-fe26108d86c8" alt="Figma" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/a337e2a7-05e4-4150-983c-549c65b8e336" alt="Git" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/bfb03122-62c0-466a-8b82-91505d515aa7" alt="MySQL" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/998f6123-0fcc-4568-933c-aeba6730b6f9" alt="VS Code" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://wordpress.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/00c41faf-c943-45b1-8f96-9993e8a25da6" alt="WordPress" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://en.cppreference.com/w/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2e98a6a8-06f7-48b9-af4c-274416717e4b" alt="C++" width="100" height="100" style="border-radius: 50%;">
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2c969332-0265-4075-954b-9ce074fc5f9e" alt="C#" width="100" height="100" style="border-radius: 50%;">
-    </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nks854338&show_icons=true&locale=en&layout=compact" alt="nks854338" /></p>
