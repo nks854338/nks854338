@@ -5,6 +5,16 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 -🌱 I’m currently learning: Advanced Express, and MongoDB
 - 📫 How to reach me: Email
 
+    
+## 🌐 Connect with me
+
+[![LinkedIn](https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7)](https://www.linkedin.com)
+[![GitHub](https://github.com/user-attachments/assets/6f79efdd-a7e9-4953-ace3-4c9f3e3d3660)](https://github.com)
+[![Twitter](https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a)](https://twitter.com)
+[![Behance](https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a)](https://www.behance.net)
+
+
+
 ## Connect with me:
 <div style="display: flex; justify-content: space-between;">
    <a href="https://www.linkedin.com" target="_blank">
