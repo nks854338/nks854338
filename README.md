@@ -6,14 +6,15 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 - 📫 How to reach me: Email
 
 ## Connect with me:
-<div style="display: flex; justify-content: space-between; gap: 100;">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="Linkdin" height="40">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+   <a href="https://www.linkedin.com" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="LinkedIn" height="40">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <a href="https://www.behance.net" target="_blank">
         <img src="https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a" alt="Behance" height="30">
     </a>
 </div>
+
     
 ---
 ## 🛠 Languages:
