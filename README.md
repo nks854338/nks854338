@@ -24,7 +24,9 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 ## 🛠 Languages and Tools:
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 1" width="100" height="100">
-    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 2" width="100" height="100">
+   ![CSS](https://github.com/user-attachments/assets/e0496b8e-e312-4573-ba2c-c1308a618ee7)
+    ![JavaScript](https://github.com/user-attachments/assets/b1299391-22b4-4133-9285-879544aee176)
+    ![bootstrap](https://github.com/user-attachments/assets/5cd16bc0-ba14-4d50-93c0-1cfb7b253041)
     <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 3" width="100" height="100">
     <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 4" width="100" height="100">
     <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 5" width="100" height="100">
