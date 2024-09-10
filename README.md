@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nandani Singh
+# Hi 👋, I'm Nandani
 
 Aspiring Full-Stack Developer with a passion for creating efficient, scalable, and user-friendly applications. Skilled in web technologies like React.js, Node.js, and MongoDB, with a solid foundation in Computer Science and software development practices. I'm always eager to learn and grow, currently exploring exciting new projects in web development and geospatial technologies.
 
@@ -6,14 +6,15 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 - 📫 How to reach me: Email
 
 ## Connect with me:
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: space-between;">
    <a href="https://www.linkedin.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="LinkedIn" height="40">
+        <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="LinkedIn" height="40" style="margin-right: 20px;">
     </a>
     <a href="https://www.behance.net" target="_blank">
         <img src="https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a" alt="Behance" height="30">
     </a>
 </div>
+
 
     
 ---
