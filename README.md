@@ -7,10 +7,10 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 
 ## Connect with me:
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b9d9f972-0f07-45cf-ab16-ec1bfc7d2e19" alt="Linkdin" width="50" height="50">
+        <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="Linkdin" width="50" height="50">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://github.com/user-attachments/assets/f491ab30-b108-4ef7-8ee0-8e0417557a2a" alt="Behance" width="50" height="50">
+        <img src="https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a" alt="Behance" width="50" height="50">
     </a>
     
 ---
