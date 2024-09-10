@@ -11,9 +11,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nandanisingh85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandanisingh85/" height="30" width="40" /></a>
 <a href="https://www.behance.net/www.behance.net/nandanikumari13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="www.behance.net/nandanikumari13" height="30" width="40" /></a>
+<a href="https://upskillmafia.com/mern/nks854338" target="blank"><img align="center" src="https://github.com/user-attachments/assets/bb47bcb1-11d2-4b8a-83ec-ead2e7620168" alt="www.behance.net/nandanikumari13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/u/nks854338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/nks854338/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/nandani854338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/nandani854338" height="30" width="40" /></a>
 </p>
+![upskillmafia_logo-removebg-preview]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
