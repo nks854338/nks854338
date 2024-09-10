@@ -22,8 +22,16 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 ---
 
 ## 🛠 Languages and Tools:
-![HTML (2)](https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62)
-![Laptop Screenshot Page2](https://github.com/user-attachments/assets/6a67beaf-f65c-491b-a00e-47f76e9a6a35)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 1" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 2" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 3" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 4" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 5" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 6" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/343e713e-0b54-4167-8fb8-525aefa76e62" alt="Image 7" width="100" height="100">
+</div>
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
