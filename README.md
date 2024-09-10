@@ -4,8 +4,7 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 
 ## 🌱 I’m currently learning:
 - Advanced Express, and MongoDB
-- Geospatial Data and Remote Sensing
-- Machine Learning for web applications
+- 📫 How to reach me Click
 - 
 ---
 ## 🛠 Languages:
