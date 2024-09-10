@@ -8,7 +8,6 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
 - Machine Learning for web applications
 - 
 ---
-
 ## 🛠 Languages:
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -64,6 +63,7 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
         <img src="https://github.com/user-attachments/assets/2c969332-0265-4075-954b-9ce074fc5f9e" alt="C#" width="100" height="100" style="border-radius: 50%;">
     </a>
 </div>
+
 ## 🛠 Tools:
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <a href="https://www.figma.com/" target="_blank">
@@ -88,6 +88,7 @@ Aspiring Full-Stack Developer with a passion for creating efficient, scalable, a
         <img src="https://github.com/user-attachments/assets/2c969332-0265-4075-954b-9ce074fc5f9e" alt="C#" width="100" height="100" style="border-radius: 50%;">
     </a>
 </div>
+
 
 ---
 
