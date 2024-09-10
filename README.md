@@ -1,59 +1,89 @@
-# Hi 👋, I'm Nandani
+<h1 align="center">Hi 👋, I'm Nandani</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
-Aspiring Full-Stack Developer with a passion for creating efficient, scalable, and user-friendly applications. Skilled in web technologies like React.js, Node.js, and MongoDB, with a solid foundation in Computer Science and software development practices. I'm always eager to learn and grow, currently exploring exciting new projects in web development and geospatial technologies.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning: Advanced Express, and MongoDB
-- 📫 How to reach me: Email
+- 🌱 I’m currently learning **Express js, MongoDB**
 
-    
-## 🌐 Connect with me
+- 📫 How to reach me **nks854338@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6b43a751-7ed8-4209-89ec-a1d14af26ed7" alt="LinkedIn" height="30" style="margin-right: 15px;">
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6f79efdd-a7e9-4953-ace3-4c9f3e3d3660" alt="GitHub" height="30" style="margin-right: 15px;">
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/85ef7ce1-ae22-417b-b208-30cb80e18fff" alt="Twitter" height="30" style="margin-right: 15px;">
-  </a>
-  <a href="https://www.behance.net" target="_blank">
-    <img src="https://github.com/user-attachments/assets/59ab290a-2623-4734-828a-276a3045735a" alt="Behance" height="30">
-  </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandanisingh85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandanisingh85/" height="30" width="40" /></a>
+<a href="https://www.behance.net/www.behance.net/nandanikumari13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="www.behance.net/nandanikumari13" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leetcode.com/u/nks854338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/nks854338/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/nandani854338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/nandani854338" height="30" width="40" /></a>
 </p>
 
----
-
-## 🛠 Languages:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://github.com/user-attachments/assets/9a3160ce-ec56-43fd-9b66-0357f500d49a" alt="HTML" width="100" height="100" style="margin-right: 20px;">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2f5f64d9-fbfd-4d88-9217-eb6f522187b9" alt="CSS" width="100" height="100" style="margin-right: 20px;">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4ef61b34-e420-48ff-9d24-63f7bc9f6de1" alt="JavaScript" width="100" height="100" style="margin-right: 20px;">
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://github.com/user-attachments/assets/42297ea2-ff42-40b8-a2f3-10bb6cdfbffb" alt="PHP" width="100" height="100" style="margin-right: 20px;">
-    </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
+        </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+        </a> 
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nks854338&show_icons=true&locale=en&layout=compact" alt="nks854338" /></p>
 
-## 📫 How to reach me:
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/email-icon.png" alt="Email Icon" width="30" height="30" style="margin-right: 10px;">
-    <span>Email: <a href="mailto:nks854338@gmail.com">nks854338@gmail.com</a></span>
-</p>
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/github-icon.png" alt="GitHub Icon" width="30" height="30" style="margin-right: 10px;">
-    <a href="https://github.com/your-username" target="_blank">GitHub</a>
-</p>
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/linkedin-icon.png" alt="LinkedIn Icon" width="30" height="30" style="border-radius: 50%; margin-right: 10px;">
-    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nks854338&show_icons=true&locale=en" alt="nks854338" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nks854338&" alt="nks854338" /></p>
